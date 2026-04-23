@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 ## Overview
-This project presents a Power BI dashboard focused on sales performance analysis.
+This project showcases a Power BI dashboard focused on analyzing sales performance, including trends, profitability, and regional insights.
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
